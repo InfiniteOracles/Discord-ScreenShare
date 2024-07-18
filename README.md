@@ -1,3 +1,15 @@
 # Discord-ScreenShare
 
-This takes a screenshot of you'r screen and sends it to discord constantly just put in your token and screenshot path {so were to save screenshots} kinda like a screenshare if you want higher performance you can port it to https://github.com/ra1nty/DXcam i plan on doing this too.
+## Overview
+This is a fun project that continuously takes screenshots of your screen and sends them to Discord. Think of it as a quirky screen-sharing tool!
+
+## How to Use
+1. **Setup**:
+   - Insert your Discord token.
+   - Specify the path where you want to save the screenshots.
+
+2. **Higher Performance**:
+   - For those interested in a bit more efficiency, you can try porting this tool to use [DXcam](https://github.com/ra1nty/DXcam). I might do this in the future too!
+
+## Important Notice
+- **Disclaimer**: This project is just for fun and educational purposes. It's not intended for serious use, and you should comply with Discord's terms of service and privacy policies.
